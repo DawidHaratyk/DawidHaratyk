@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ I have been programming for 3 years<br>📚 I am currently developing apps in React.js & React Native<br>🏋🏼 I like exercising to have a work & life balance</p>
+<p align="left">✨ I have been programming for 4 years<br>📚 I am currently developing apps in React.js & React Native<br>🏋🏼 I like exercising to have a work & life balance</p>
 
 ###
 
