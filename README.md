@@ -10,7 +10,9 @@
 
 ###
 
-<p align="left">✨ I have been programming for 4 years<br>📚 I am currently developing apps in React.js & React Native<br>🏋🏼 I like exercising to have a work & life balance</p>
+<p align="left">📚 I’m a software developer with 4 years of experience, specializing in building responsive, high-performance applications using React.js and React Native. I’m passionate about crafting clean, efficient code and creating seamless user experiences across web and mobile platforms.
+
+🏋️‍♂️ Outside of coding, I prioritize maintaining a healthy work-life balance through regular exercise, particularly weightlifting. This helps me stay focused and energized both professionally and personally. Always eager to learn and grow, I’m excited to take on new challenges and collaborate on innovative projects.</p>
 
 ###
 
